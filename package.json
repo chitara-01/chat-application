@@ -1,0 +1,20 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "My first chat application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chitara-01/chat-application.git"
+  },
+  "keywords": [],
+  "author": "Muskan <chitara.1@iitj.ac.in>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chitara-01/chat-application/issues"
+  },
+  "homepage": "https://github.com/chitara-01/chat-application#readme"
+}
